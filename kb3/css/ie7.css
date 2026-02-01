@@ -1,0 +1,62 @@
+nav li,
+.Navigation li
+{
+  zoom: 1;
+  display: inline;
+}
+
+header hgroup,
+.Header .Headings
+{
+  margin-top: -24px;
+}
+
+/* NIR/Phark for IE6/7 w/GI */
+header hgroup h1,
+.Header .Headings h1
+{
+  text-indent: -9000px;
+  background: url(/images/logo-background.png) no-repeat 0 0;
+}
+
+header hgroup h2,
+.Header .Headings .SubTitle1
+{
+  margin-top: 16px;
+}
+
+.main
+{
+  margin-right: 0;
+  width: 70%;
+}
+
+.deal-summary
+{
+  height: 200px;
+  width: 27%;
+}
+
+.deal-reviews section,
+.deal-reviews .SectionContainer
+{
+  width: 45%;
+}
+
+.deal-reviews section h2,
+.deal-reviews section .SubTitle1, /* for DN2c */
+.deal-reviews .SectionContainer .SubTitle1,
+.deal-reviews section h3,
+.deal-reviews section .SubTitle2, /* for DN2c */
+.deal-reviews .SectionContainer .SubTitle2
+{
+  margin-left: 68px;
+}
+
+.deal-reviews section p,
+.deal-reviews .SectionContainer p
+{
+  margin-top: 0.9em;
+}
+
+

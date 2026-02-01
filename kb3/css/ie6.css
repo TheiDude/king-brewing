@@ -1,0 +1,46 @@
+div, h1, h2, h3, h4, h5, h6, label, p
+{
+  zoom: 1;
+}
+
+body
+{
+  margin-top:0;
+}
+
+header,
+.Header
+{
+  margin-top: 0;
+  margin-bottom: 2em;
+}
+
+#rightContainer
+{
+  margin: 0 1% 1em 0;
+}
+
+.deal-detail h2.Title
+{
+	margin-left: 0;
+}
+
+.deal-reviews section h1,
+.deal-reviews .SectionContainer .Title
+{
+  display:none;
+}
+
+.deal-reviews section h2,
+.deal-reviews .SectionContainer .SubTitle1,
+.deal-reviews section h3,
+.deal-reviews .SectionContainer .SubTitle2
+{
+  margin-left: 0;
+}
+
+#welcome h1,
+#welcome h2
+{
+  background-image: none;
+}

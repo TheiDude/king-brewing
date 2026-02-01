@@ -1,0 +1,18 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code
+.claude/
+
+# Stats and analytics
+stats/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# PHP
+*.log

@@ -1,0 +1,180 @@
+*
+{
+	font-size: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	margin: 0;
+	padding: 0;
+}
+header,
+.Header
+{
+	background-color: #FFF;
+	margin: 0;
+  padding: 1em 0;
+	width: 100%;
+}
+header hgroup,
+header .Headings, /* for DN2b */
+.Header .Headings
+{
+	height: 3.5em;
+	padding: 0.6em 1.5% 0 1.5%;
+	text-align: center;
+	width: 100%;
+}
+header hgroup h1,
+header .Headings h1, /* for DN2b */
+.Header .Headings h1
+{
+  color: #121d8e;
+  font-weight: bold;
+  font-family: serif;
+  font-size: 1.5em;
+  -webkit-transform: scale(1.0) rotate(-5deg);
+  -webkit-transform-origin: 5% 0%;
+  -moz-transform: scale(1.0) rotate(-15deg);
+  -moz-transform-origin: 5% 0%;
+  -o-transform: scale(1.0) rotate(-15deg);
+  -o-transform-origin: 5% 0%;
+  -ms-transform: scale(1.0) rotate(-15deg);
+  -ms-transform-origin: 5% 0%;
+  transform: scale(1.0) rotate(-15deg);
+  transform-origin: 5% 0%;
+}
+nav menu,
+.Navigation .menu
+{
+  float: right;
+}
+
+nav li,
+.Navigation li
+{
+  background-color: #CCC;
+  color: #252525;
+  display:inline-block;
+  margin: 0 1em 0 0;
+  padding: 0.3em 0;
+  text-align: center;
+  width: 5em;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  box-shadow: 10px 11px 12px rgba(0,1,2,0.5);
+}
+nav li
+{
+  background-image: -ms-linear-gradient( top, #999, #AAA 10%, #CCC 30%, #DDD 50%, #CCC 55%, #999 );
+  background-image: -moz-linear-gradient( top, #999, #AAA 10%, #CCC 30%, #DDD 50%, #CCC 55%, #999 );
+  background-image: -o-linear-gradient(top, #999, #AAA 10%, #CCC 30%, #DDD 50%, #CCC 55%, #999 );
+  background-image: -webkit-linear-gradient( top, #999, #AAA 10%, #CCC 30%, #DDD 50%, #CCC 55%, #999 );
+  background-image: linear-gradient( top, #999, #AAA 10%, #CCC 30%, #DDD 50%, #CCC 55%, #999 );
+}
+nav li a:link,
+nav li a:visited,
+.Navigation li a:link,
+.Navigation li a:visited
+{
+  border: none!important;
+  color: #252525!important;
+}
+article
+{
+  background-color: #CCC;
+  margin: 1em;
+  padding: 0.5em;
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -webkit-box-shadow: 10px 11px 12px rgba(0,1,2, 0.5);
+  box-shadow: 10px 11px 12px rgba(0,1,2,0.5);
+}
+article hgroup,
+article .Headings, /* for DN2c */
+.SelfContained .Headings
+{
+	text-align: left;
+}
+
+#rightContainer
+{
+  float: right;
+	margin: 1em 2% 2em 0;
+  width: 22%;
+}
+
+aside strong
+{
+  text-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+}
+aside,
+.SideBar
+{
+	background-color: #E9B928;
+	border: 8px outset #E9B928;
+	color: #252525;
+	padding: 1em 1.5%;
+	text-align: center;
+}
+
+aside p,
+.SideBar p
+{
+	color: #252525;
+	font-style: italic;
+}
+
+aside p strong,
+.SideBar p strong
+{
+	color:#19B;
+	display:block;
+	font-family:serif;
+	font-size:200%;
+	font-style: normal;
+	font-weight:bold;
+}
+
+aside h2,
+.SideBar .SubTitle1
+{
+	color: #252525;
+}
+
+a
+{
+  -moz-transition:
+      background-color 0.4s linear,
+      -moz-box-shadow 0.2s linear 0.1s,
+      box-shadow 0.2s linear 0.1s;
+  -o-transition:
+      background-color 0.4s linear,
+      box-shadow 0.2s linear 0.1s;
+  -webkit-transition:
+      background-color 0.4s linear,
+      -webkit-box-shadow 0.2s linear 0.1s;
+  -ms-transition:
+      background-color 0.4s linear,
+      box-shadow 0.2s linear 0.1s;
+  transition:
+      background-color 0.4s linear,
+      box-shadow 0.2s linear 0.1s;
+}
+
+a:hover
+{
+  background-color: rgba(233,185,40,0.9);
+  -moz-box-shadow: 0px 0px 10px 5px rgb(233,185,40);
+  -webkit-box-shadow: 0px 0px 10px 5px rgb(233,185,40);
+  box-shadow: 0px 0px 10px 5px rgb(233,185,40);
+}
+footer,
+.Footer
+{
+	background-color: #252525;
+  clear: both;
+	font-size: 60%;
+	margin-top: 1em;
+	text-align: center;
+	padding: 1em 3%;
+}

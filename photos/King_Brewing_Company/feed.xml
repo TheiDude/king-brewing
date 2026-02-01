@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:F565889B-5300-45D7-ACD7-74160FFC7AFF</id>
+ <title>Page list Atom feed</title>
+ <updated>2011-07-20T09:20:29-04:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:BE1817D5-4BE5-4D9A-8719-431C51DA7879</id>
+  <title>King Brewing Company</title>
+  <title xmlns="urn:iweb:">King Brewing Company</title>
+  <in-navbar xmlns="urn:iweb:">BE1817D5-4BE5-4D9A-8719-431C51DA7879</in-navbar>
+  <link rel="alternate" href="King_Brewing_Company/King_Brewing_Company.html"/>
+  <updated>2011-07-20T09:20:29.001-04:00</updated>
+  <content>King Brewing Company</content>
+ </entry>
+</feed>

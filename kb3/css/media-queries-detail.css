@@ -1,0 +1,15 @@
+@media screen and (max-width: 40em) {
+
+    .deal-detail > img
+    {
+      float: none;
+      width: 100%;
+    }
+
+    .deal-detail > hgroup,
+    .deal-detail > form
+    {
+      margin-left: 0;
+    }
+
+}

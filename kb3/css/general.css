@@ -1,0 +1,655 @@
+/*
+ *  Resets & HTML5 blocks
+ */
+
+*
+{
+	font-size: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	margin: 0;
+	padding: 0;
+}
+
+article,
+aside,
+footer, 
+header,
+hgroup,
+menu,
+nav,
+section
+{
+	display:block;
+}
+
+b,
+strong
+{
+  font-weight: bolder;
+}
+
+em,
+i
+{
+  font-style: italic;
+}
+
+
+/*
+ * Accessibility hide
+ */
+
+.accessiblyHidden,
+.deal-reviews h1,
+.deal-reviews .Title,
+article.tagcloud h1
+{
+  position: absolute;
+  left: -999px;
+  top: 0px;
+  width: 900px;
+} 
+
+/*
+ *  General element styles
+ */
+
+a
+{
+  background: transparent;
+	color: #CCC;
+	text-decoration: none;
+	border-bottom:1px dotted #CCC;
+}
+
+a:link,
+a:visited
+{
+	color: #CCC;
+}
+
+a.helpTarget.deactivated
+{
+  border-bottom:none;
+}
+
+body
+{
+	background-color: #CEF;
+	color: #CCC;
+	font-family: Arial;
+	font-size: 10pt;
+  height: 100%;
+	margin: 0;
+}
+
+article,
+.SelfContained
+{
+	background-color: #252525;
+	margin: 1.5%;
+	padding: 1em 1%;
+}
+
+canvas
+{
+  margin-top: 1em;
+}
+
+fieldset
+{
+  border: none;
+}
+
+hgroup,
+.Headings
+{
+	text-align:center;
+}
+
+h1,
+h2.Title,
+.inventory h2.Title,
+h3.Title,
+h4.Title
+{
+  clear: none;
+	color: #4CE;
+	font-size:150%;
+	font-weight: bold;
+  margin-bottom: inherit;
+}
+
+h2,
+.SubTitle1
+{
+	color: #E9B928;
+	font-size: 130%;
+	font-weight: bold;
+}
+
+h3,
+.SubTitle2
+{
+	color: #E9B928;
+	font-size: 115%;
+	font-weight: bold;
+}
+
+h4,
+.SubTitle3
+{
+	color: #E9B928;
+	font-size: 110%;
+	font-weight: bold;
+}
+
+li
+{
+  margin-left: 1em;
+}
+
+.helpTopic,
+section,
+.SectionContainer
+{
+	border: 1px solid #E9B928;
+	margin-top: 2em;
+	min-height: 50px;
+	padding: 1em 1.5%;
+}
+
+/*
+ *  General classes
+ */
+
+.siteSubmit
+{
+	color: #252525;
+	font-weight:bold;
+	padding: 0 3%;
+}
+
+.deal-summary .siteSubmit
+{
+	width: 100%;
+  margin-bottom: 0.5em;
+}
+
+/*
+ *   Specific areas on each page, from top-down
+ */
+
+header,
+.Header
+{
+	background-color: #252525;
+	margin: 0;
+  padding: 1em 0;
+	width: 100%;
+}
+  
+header hgroup,
+header .Headings, /* for DN2b */
+.Header .Headings
+{
+	height: 3.5em;
+	padding: 0.6em 1.5% 0 1.5%;
+	text-align: center;
+	width: 100%;
+}
+
+/* Nash Image Replacement w/Gallagher improvements */
+header hgroup h1,
+header .Headings h1, /* for DN2b */
+.Header .Headings h1
+{
+	float:left;
+  font-weight: bold;
+  font-size: 24pt;
+	height: 56px;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  text-transform: uppercase;
+	width: 300px;
+}
+
+/* NIR w/GI continued */
+header hgroup h1:before,
+header .Headings h1:before, /* for DN2b */
+.Header .Headings h1:before
+{
+  content: url(/images/logo-background.png);
+  display: inline-block;
+  font-size: 0;
+  line-height: 0;
+}
+
+header hgroup h2,
+header .Headings .SubTitle1, /* for DN2b */
+.Header .Headings .SubTitle1
+{
+  clear:right;
+	float:left;
+	font-family: serif;
+	font-size: 1.2em;
+	font-style: italic;
+	font-weight: bold;
+	padding-left: 1%;
+	padding-top: 0.2em;
+	text-align:left;
+}
+
+nav menu,
+.Navigation .menu
+{
+  float: right;
+}
+
+nav li,
+.Navigation li
+{
+  background-color: #CCC;
+  color: #252525;
+  display:inline-block;
+  margin: 0 1em 0 0;
+  padding: 0.3em 0;
+	text-align: center;
+  width: 5em;
+}
+
+nav li a:link,
+nav li a:visited,
+.Navigation li a:link,
+.Navigation li a:visited
+{
+  border: none!important;
+  color: #252525!important;
+}
+
+#menuLoc menu,
+#menuLoc .Menu
+{
+  text-align: center;
+}
+
+#marketSelector
+{
+  font-size: 150%;
+  border: none;
+}
+
+.inventory h2,
+.inventory .SubTitle1
+{
+  font-size: 70%;
+  margin-bottom: 2em;
+}
+
+.inventory a
+{
+  margin-bottom: 1em;
+}
+
+.main
+{
+	margin-right: 26%;
+  padding-right: 0;
+}
+
+#welcome
+{
+  background: #252525 url(/images/tree-graphic.png) no-repeat center center;
+  height: 80%;
+  min-height: 600px;
+  text-align: center;
+}
+
+#welcome h1,
+#welcome h2
+{
+  background: url(/images/arrow-up.png) no-repeat right top;
+  font-size: 50px;
+  margin: 0 10%;
+  padding-top: 100px;
+}
+
+#welcome h1 div,
+#welcome h2 div
+{
+  font-weight: 900;
+}
+
+#welcome p
+{
+  font-size: 150%;
+  font-style: italic;
+  border: 6px solid #E9B928;
+  margin: 0 10%;
+  padding: 1em 4.5%;
+}
+
+article hgroup,
+article .Headings, /* for DN2c */
+.SelfContained .Headings
+{
+	text-align: left;
+}
+
+#rightContainer
+{
+  float: right;
+	margin: 1em 2% 2em 0;
+  width: 22%;
+}
+
+.signupValid
+{
+  background-color: #4CE;
+  border: 6px solid #E9B928;
+  color: #252525;
+	font-size:150%;
+	font-weight: bold;
+	margin: 1em 1.5%;
+	padding: 1em 1%;
+  text-align: center;
+ }
+
+.signupInvalid
+{
+  background-color: red;
+  color: #252525;
+	font-size:130%;
+	font-weight: bold;
+	margin: 1em 1.5%;
+	padding: 1em 1%;
+  text-align: center;
+}
+
+.signupInvalid div
+{
+  color: yellow;
+	font-size:115%;
+}
+
+aside,
+.SideBar
+{
+	background-color: #E9B928;
+	border: 8px outset #E9B928;
+	color: #252525;
+	padding: 1em 1.5%;
+	text-align: center;
+}
+
+aside p,
+.SideBar p
+{
+	color: #252525;
+	font-style: italic;
+}
+
+aside p strong,
+.SideBar p strong
+{
+	color:#19B;
+	display:block;
+	font-family:serif;
+	font-size:200%;
+	font-style: normal;
+	font-weight:bold;
+}
+
+aside h2,
+.SideBar .SubTitle1
+{
+	color: #252525;
+}
+
+.inventory
+{
+	min-height: 200px;
+  margin: 1em 0;
+  padding: 1em 5%;
+}
+
+.tagcloud
+{
+  margin: 0 0 1em 0;
+	padding: 10%;
+  text-align:center;
+}
+
+.deal-detail
+{
+  padding: 1em 1.5%;
+}
+
+.deal-detail img
+{
+	float: left;
+	width: 46%;
+}
+
+.deal-detail .Headings,
+.deal-detail hgroup,
+.deal-detail form
+{
+	margin-left: 50%;
+}
+
+.deal-detail h1,
+.deal-detail h2.Title
+{
+  font-size: 300%;
+}
+
+.deal-description
+{
+  clear: both;
+  padding-top: 1em;
+}
+
+.deal-detail .deal-reviews hgroup,
+.deal-detail .deal-reviews .Headings
+{
+  margin: 0;
+}
+
+.deal-detail .deal-reviews img
+{
+  width: inherit;
+}
+
+.teaser
+{
+	color:#E9B928;
+	font-style:italic;
+  margin-bottom: 1em;
+}
+
+.deal-reviews
+{
+	clear:left;
+}
+
+.deal-reviews section,
+.deal-reviews .SectionContainer
+{
+  float: left;
+  height: 200px;
+  margin-right: 1%;
+  margin-top: 1em;
+  overflow: hidden;
+  width: 49%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.deal-reviews section h1,
+.deal-reviews section .Title, /* for DN2c */
+.deal-reviews .SectionContainer .Title
+{
+  height: 1.2em;
+  position: static;
+  width: inherit;
+  font-size: 100%;
+  margin-left: 0.75%;
+}
+
+section.deal-reviews,
+.SectionContainer.deal-reviews
+{
+  border: none;
+  margin: 0;
+  min-height: 0;
+  padding: 0;
+}
+
+.deal-reviews section h2,
+.deal-reviews section .SubTitle1, /* for DN2c */
+.deal-reviews .SectionContainer .SubTitle1,
+.deal-reviews section h3,
+.deal-reviews section .SubTitle2, /* for DN2c */
+.deal-reviews .SectionContainer .SubTitle2,
+.deal-reviews section h4,
+.deal-reviews section .SubTitle3, /* for DN2c */
+.deal-reviews .SectionContainer .SubTitle3
+{
+	font-size:inherit;
+	font-weight: bold;
+	padding-right: 1.5%;
+}
+
+.deal-reviews img
+{
+	float:left;
+	border: 7px solid #4CE;
+	height: 42px;
+	margin: 0.3em 0.75% 0.5em 0;
+	width: auto;
+}
+
+.deal-reviews section p,
+.deal-reviews .SectionContainer p
+{
+	clear:left;
+}
+
+.deal-summary
+{
+	border: 1px solid #E9B928;
+  height: 280px;
+  float: left;
+  margin: 0.5em 1% 0 0;
+  overflow: hidden;
+	padding: 1em 1.5% 1.5em 1.5%;
+  width: 32%;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+a.deal-image-anchor
+{
+  display:block;
+  border:none;
+}
+
+.deal-image-anchor img
+{
+	width: 100%;
+}
+
+.deal-summary h1,
+.deal-summary h3
+{
+  font-size: 100%;
+}
+
+.deal-summary h1 a,
+.deal-summary h3 a
+{
+  color: #4CE;
+	font-weight: bold;
+}
+
+.deal-summary a
+{
+	border: none;
+}
+
+.labelAndField
+{
+	clear: left;
+	margin: 0.5em 0 0 0;
+}
+
+.labelAndField label,
+.labelAndField .spacer
+{
+	display: block;
+	float: left;
+	width: 10em;
+}
+
+.summary-buy-form
+{
+	text-align: center;
+	margin-top: 0.5em;
+}
+
+.detail-buy-form
+{
+  margin-top: 1em;
+}
+
+.avatar /* chirps */
+{
+  float:right;
+  margin-right: 1.5%;
+}
+
+.quote /* chirps */
+{
+	font-size: 125%;
+	text-align: center;
+}
+
+.citation /* chirps */
+{
+	font-size: 110%;
+	margin-left: 60%;
+	margin-top: 0.5em;
+}
+
+footer,
+.Footer
+{
+	background-color: #252525;
+  clear: both;
+	font-size: 60%;
+	margin-top: 1em;
+	text-align: center;
+	padding: 1em 3%;
+}
+
+select
+{
+  border: 1px solid #4CE;
+  background-color: #252525;
+  color: #CCC;
+  font-size: 120%;
+}
+
+textarea#details
+{
+  height: 8em;
+  overflow: auto;
+  width: 70%;
+}
+
+

@@ -1,0 +1,160 @@
+@media screen and (max-width: 64em) {
+
+    .deal-detail img
+    {
+      width: 30%;
+    }
+
+    .deal-detail hgroup,
+    .deal-detail form
+    {
+      margin-left: 32%;
+    }
+
+    .deal-detail hgroup *
+    {
+      font-size: inherit;
+    }
+}
+
+@media screen and (max-width: 58em) {
+
+    header hgroup
+    {
+      height: inherit;
+      padding: 0;
+    }
+
+    header hgroup h1
+    {
+      clear: both;
+      float: none;
+      font-size: 1px;
+      height: 48px;
+      line-height: 0;
+      text-align: center;
+      width: 100%;
+    }
+
+    header hgroup h2
+    {
+      padding: 0;
+      float: none;
+      font-size: 100%;
+      text-align: center;
+      width: 100%;
+    }
+
+    header nav menu
+    {
+      float: none;
+      text-align: center;
+    }
+
+    .deal-summary
+    {
+      width: 48.5%;
+    }
+
+    #rightContainer
+    {
+      width: 20%;
+    }
+
+    #rightContainer aside
+    {
+      display: none;
+    }
+
+    .inventory
+    {
+      margin: 0 0 1em 0;
+    }
+
+    #rightContainer .tagcloud
+    {
+      display: none;
+    }
+
+    #welcome
+    {
+      height: inherit;
+      min-height: inherit;
+      padding-bottom: 4em;
+    }
+
+    #welcome h1
+    {
+      font-size: 3.5em;
+      padding-top: 5%;
+    }
+
+    #welcome p
+    {
+      font-size: inherit;
+      padding: 1em;
+    }
+
+    .main
+    {
+      margin-right: 24%;
+    }
+
+    .deal-reviews section
+    {
+      height: inherit;
+      width: inherit;
+    }
+}
+
+@media screen and (max-width: 34em) {
+
+    nav li
+    {
+      font-size: smaller;
+      margin-right: 0;
+      width: 4em;
+    }
+
+    #rightContainer
+    {
+      margin: 2px;
+      padding: 2px;
+      width: 90px;
+    }
+
+    #inventory h1
+    {
+      text-align: center;
+    }
+
+    #inventory h2
+    {
+      font-size: 8px;
+      text-align: center;
+    }
+
+    #marketSelector
+    {
+      font-size: 100%;
+    }
+
+    #welcome h1
+    {
+      font-size: 2em;
+    }
+
+    .deal-summary
+    {
+      height: inherit;
+      float: none;
+      margin-right: 0;
+      width: 98%;
+    }
+
+    .main
+    {
+      margin: 2px 96px 2px 2px;
+    }
+
+}

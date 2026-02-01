@@ -1,0 +1,507 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<photoCollection mode="publish">
+	<display>
+		<style cellBorderColor="#787878" cellRolloverColor="#a1a1a1" cssVersion="125565373821900494" idplateEnabled="false" 			css="
+				#previewFull {background-color: #666666 !important; width: 705px !important; color: inherit}
+				#liveUpdateContactInfo {color: #b3b3b3 !important; background-color: inherit;}
+				.borderRightDotted {border-right: 1px dotted #787878 !important;}
+				.logo {display: none !important;}
+				#liveUpdateCollectionDescription {color: #b3b3b3 !important; background-color: inherit;}
+				.detailNav, .detailLinks, #detailCaption, #detailTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.emptyThumbnail {background-color: #949494 !important; color: inherit;}
+				.thumbnail {background-color: #949494 !important; color: inherit;}
+				.previewFullImage {height: 675px !important; width: 705px !important;}
+				#stage2 {width: 705px !important;}
+				.itemNumber {display: inherit !important; color: #9c9c9c !important; background-color: inherit;}
+				#content {background-color: #4c4c4c !important; color: inherit;}
+				.borderTopLeft {border-top: 1px solid #787878 !important; border-left: 1px solid #787878 !important;}
+				#stage {width: 645px !important;}
+				.caption {color: #b3b3b3 !important; background-color: inherit;}
+				#wrapper2 {width: 705px !important;}
+				.borderBottomRight {border-right: 1px solid #787878 !important; border-bottom: 1px solid #787878 !important;}
+				#wrapper {width: 645px !important;}
+				#liveUpdateCollectionTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.paginationLinks, .pagination, #liveUpdatePagination {color: #b3b3b3 !important; background-color: inherit;}
+				.selectedThumbnail, .thumbnail:hover {background-color: #a1a1a1 !important; color: inherit;}
+				#liveUpdateSiteTitle {color: #b3b3b3 !important; background-color: inherit;}
+				.borderBottom {border-bottom: 1px solid #787878 !important;}
+				.borderRight {border-right: 1px solid #787878 !important;}
+				body {background-color: #4c4c4c !important; color: inherit;}
+			"
+		identityPlateAbsolutePath="" 
+numCols="4" 
+numRows="3" 
+homePage="index.html" 
+imageBase="content" 
+cellColor="#949494">
+		</style>
+		<metadata>
+			<creationDate formatted="Thu Oct 15 2009 20:42:18 GMT-0400"></creationDate>
+			<groupTitle value="Mar 24, 2002"></groupTitle>
+			<contactInfo value="KingBrewCo@mac.com" link="mailto:KingBrewCo@mac.com"></contactInfo>
+			<siteTitle value="King Brewing - Lazy Lester"></siteTitle>
+			<groupDescription value="Thank you Zoran for the photos"></groupDescription>
+		</metadata>
+		<localization>
+			<item id="AdobeLightroomWebSite" localized="http://labs.adobe.com/technologies/lightroom/"></item>
+			<item id="AdobeLightroomBeta" localized="Adobe Lightroom Beta"></item>
+			<item id="Fullsize" localized="Fullsize"></item>
+			<item id="Next" localized="Next"></item>
+			<item id="Previous" localized="Previous"></item>
+			<item id="EmptyGallery" localized="There are no images in this gallery."></item>
+			<item id="more" localized="more"></item>
+			<item id="Index" localized="Index"></item>
+		</localization>
+	</display>
+	<head>
+		<siteTitle></siteTitle>
+		<collectionName></collectionName>
+		<collectionTitle></collectionTitle>
+		<collectionDescription></collectionDescription>
+		<contactInfo></contactInfo>
+		<slideDuration></slideDuration>
+		<sizes>
+			<size name="large" height="675" width="675"></size>
+			<size name="thumb" height="129" width="129"></size>
+		</sizes>
+	</head>
+	<samples totalGallerySize="54" firstSampleIndex="1">
+	<img orientation="BC" imageID="0_1255653738229" filename="DSC00297" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00297.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00297.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="1_1255653738230" filename="DSC00298" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00298.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00298.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="2_1255653738233" filename="DSC00300" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00300.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00300.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="3_1255653738234" filename="DSC00301" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00301.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00301.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="4_1255653738235" filename="DSC00302" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00302.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00302.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="5_1255653738236" filename="DSC00303" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00303.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00303.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="6_1255653738237" filename="DSC00304" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00304.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00304.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="7_1255653738239" filename="DSC00305" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00305.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00305.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="8_1255653738240" filename="DSC00306" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00306.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00306.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="9_1255653738241" filename="DSC00307" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00307.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00307.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="10_1255653738243" filename="DSC00308" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00308.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00308.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="11_1255653738245" filename="DSC00309" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00309.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00309.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="12_1255653738248" filename="DSC00310" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00310.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00310.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="13_1255653738249" filename="DSC00312" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00312.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00312.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="14_1255653738250" filename="DSC00313" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00313.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00313.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="15_1255653738251" filename="DSC00314" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00314.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00314.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="16_1255653738252" filename="DSC00315" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00315.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00315.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="17_1255653738254" filename="DSC00316" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00316.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00316.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="18_1255653738255" filename="DSC00317" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00317.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00317.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="19_1255653738257" filename="DSC00318" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00318.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00318.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="20_1255653738258" filename="DSC00319" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00319.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00319.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="21_1255653738259" filename="DSC00320" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00320.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00320.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="22_1255653738260" filename="DSC00321" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00321.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00321.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="23_1255653738261" filename="DSC00322" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00322.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00322.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="24_1255653738262" filename="DSC00323" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00323.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00323.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="25_1255653738263" filename="DSC00324" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00324.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00324.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="26_1255653738266" filename="DSC00325" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00325.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00325.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="27_1255653738268" filename="DSC00326" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00326.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00326.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="28_1255653738269" filename="DSC00327" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00327.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00327.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="29_1255653738270" filename="DSC00328" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00328.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00328.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="30_1255653738271" filename="DSC00330" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00330.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00330.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="31_1255653738272" filename="DSC00331" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00331.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00331.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="32_1255653738274" filename="DSC00332" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00332.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00332.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="33_1255653738275" filename="DSC00333" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00333.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00333.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="34_1255653738277" filename="DSC00334" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00334.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00334.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="35_1255653738283" filename="DSC00335" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00335.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00335.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="36_1255653738284" filename="DSC00337" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00337.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00337.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="37_1255653738285" filename="DSC00338" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00338.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00338.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="38_1255653738286" filename="DSC00339" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00339.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00339.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="39_1255653738287" filename="DSC00340" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00340.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00340.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="40_1255653738289" filename="DSC00341" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00341.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00341.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="41_1255653738291" filename="DSC00342" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00342.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00342.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="42_1255653738292" filename="DSC00344" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00344.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00344.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="43_1255653738296" filename="DSC00345" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00345.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00345.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="44_1255653738298" filename="DSC00346" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00346.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00346.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="45_1255653738300" filename="DSC00347" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00347.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00347.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="46_1255653738302" filename="DSC00348" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00348.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00348.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="47_1255653738316" filename="DSC00349" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00349.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00349.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="48_1255653738318" filename="DSC00350" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00350.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00350.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="49_1255653738318" filename="DSC00351" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00351.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00351.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="50_1255653738319" filename="DSC00352" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00352.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00352.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="51_1255653738320" filename="DSC00353" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00353.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00353.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="52_1255653738321" filename="DSC00355" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00355.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00355.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	<img orientation="BC" imageID="53_1255653738322" filename="DSC00357" >
+		<text>
+			<title></title>
+			<description></description>
+		</text>
+		<rendition path="content/bin/images/large/DSC00357.jpg" height="506" width="675" size="large"></rendition>
+		<rendition path="content/bin/images/thumb/DSC00357.jpg" height="96" width="129" size="thumb"></rendition>
+	</img>
+	</samples>
+	<siteParams>
+		<firstImage index="1"></firstImage>
+		<lastImage index="54"></lastImage>
+		<mode value="all"></mode>
+	</siteParams>
+</photoCollection>
