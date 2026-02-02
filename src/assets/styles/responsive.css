@@ -1,0 +1,98 @@
+/* King Brewing Company - Responsive Design */
+
+/* Tablet (768px and down) */
+@media (max-width: 768px) {
+  .header-content {
+    grid-template-columns: 1fr;
+    text-align: center;
+    gap: var(--spacing-sm);
+  }
+
+  .logo {
+    margin: 0 auto;
+    max-width: 180px;
+  }
+
+  .main-nav ul {
+    justify-content: center;
+    gap: var(--spacing-xs);
+  }
+
+  .main-nav a {
+    padding: var(--spacing-xs) var(--spacing-sm);
+    font-size: 0.9rem;
+  }
+
+  .beer-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    padding: 0 var(--spacing-sm);
+  }
+
+  .main-content {
+    padding: var(--spacing-md) 0;
+  }
+
+  h1 { font-size: 2rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.25rem; }
+}
+
+/* Mobile (480px and down) */
+@media (max-width: 480px) {
+  .logo {
+    max-width: 150px;
+  }
+
+  .site-header {
+    padding: var(--spacing-sm) 0;
+  }
+
+  .main-nav ul {
+    gap: 0.25rem;
+  }
+
+  .main-nav a {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+  }
+
+  .hero {
+    padding: var(--spacing-md) 0;
+  }
+
+  .tagline {
+    font-size: 1rem;
+  }
+
+  .beer-card {
+    padding: var(--spacing-sm);
+  }
+
+  .news-item,
+  .beer-detail {
+    padding: var(--spacing-sm);
+  }
+
+  .hours-table td {
+    padding: var(--spacing-xs);
+    font-size: 0.9rem;
+  }
+
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.25rem; }
+  h3 { font-size: 1.125rem; }
+}
+
+/* Large Desktop (1400px and up) */
+@media (min-width: 1400px) {
+  .container {
+    max-width: 1400px;
+  }
+
+  .beer-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}

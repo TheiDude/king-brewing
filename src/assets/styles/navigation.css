@@ -1,0 +1,42 @@
+/* King Brewing Company - Navigation Styles */
+
+.main-nav ul {
+  list-style: none;
+  display: flex;
+  gap: var(--spacing-sm);
+  justify-content: flex-end;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.main-nav li {
+  margin: 0;
+}
+
+.main-nav a {
+  display: block;
+  padding: var(--spacing-xs) var(--spacing-md);
+  background-color: var(--bg-light);
+  border-radius: var(--border-radius);
+  font-weight: 600;
+  font-size: 1rem;
+  transition: var(--transition);
+  white-space: nowrap;
+}
+
+.main-nav a:hover {
+  background-color: var(--primary-color);
+  color: white;
+  transform: translateY(-2px);
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+.main-nav a.active {
+  background-color: var(--accent-color);
+  color: white;
+}
+
+.main-nav a:focus {
+  outline: 2px solid var(--primary-color);
+  outline-offset: 2px;
+}

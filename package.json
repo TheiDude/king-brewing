@@ -1,0 +1,17 @@
+{
+  "name": "kingbrewing-new",
+  "version": "1.0.0",
+  "description": "King Brewing Company - Modern website",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": ["brewery", "craft-beer", "kingbrewing"],
+  "author": "Kevin Boyse",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.4.1"
+  }
+}
