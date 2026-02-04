@@ -1,0 +1,7 @@
+# King Brewing Company
+# https://kingbrewing.info
+
+User-agent: *
+Allow: /
+
+Sitemap: https://kingbrewing.info/sitemap.xml

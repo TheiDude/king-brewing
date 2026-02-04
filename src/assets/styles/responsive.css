@@ -71,9 +71,18 @@
     padding: var(--spacing-sm);
   }
 
-  .news-item,
-  .beer-detail {
+  .news-item {
     padding: var(--spacing-sm);
+  }
+
+  .beer-detail {
+    grid-template-columns: 1fr;
+    padding: var(--spacing-sm);
+  }
+
+  .beer-detail img {
+    max-height: 200px;
+    width: 100%;
   }
 
   .hours-table td {
