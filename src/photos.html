@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Kevin Boyse">
+  <meta name="keywords" content="King Brewing Company, Photos, Memories, Gallery, Pontiac, Michigan">
+  <meta name="description" content="King Brewing Company photo gallery - memories from 15 years of craft beer and community">
+  <title>Photos - King Brewing Company</title>
+  <link rel="icon" type="image/x-icon" href="/favicon.ico">
+  <link rel="stylesheet" href="/assets/styles/main.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <div class="header-content">
+        <img src="/assets/images/branding/king-logo.jpg" alt="King Brewing Company" class="logo">
+        <nav class="main-nav" aria-label="Main navigation">
+          <ul>
+            <li><a href="/index.html">Home</a></li>
+            <li><a href="/beers.html">Beers</a></li>
+            <li><a href="/daily-specials.html">Daily Specials</a></li>
+            <li><a href="/menu.html">Menu</a></li>
+            <li><a href="/photos.html" class="active" aria-current="page">Photos</a></li>
+            <li><a href="/blog.html">Blog</a></li>
+            <li><a href="/podcast.html">Podcast</a></li>
+          </ul>
+        </nav>
+      </div>
+    </div>
+  </header>
+
+  <main class="main-content">
+    <div class="container">
+      <h1>Memories</h1>
+      <p class="note">15 years of craft beer, live music, and community. Click an album to explore.</p>
+
+      <section class="album-grid">
+        <article class="album-card" data-album="Kings_15th_Last_Call">
+          <div class="album-cover"></div>
+          <h2>King's 15th - Last Call</h2>
+          <p>The final celebration</p>
+        </article>
+
+        <article class="album-card" data-album="Kings_14th">
+          <div class="album-cover"></div>
+          <h2>King's 14th Anniversary</h2>
+          <p>14 years of brewing</p>
+        </article>
+
+        <article class="album-card" data-album="Kings_13th">
+          <div class="album-cover"></div>
+          <h2>King's 13th Anniversary</h2>
+          <p>Lucky 13</p>
+        </article>
+
+        <article class="album-card" data-album="Kings_12th">
+          <div class="album-cover"></div>
+          <h2>King's 12th Anniversary</h2>
+          <p>A dozen years</p>
+        </article>
+
+        <article class="album-card" data-album="Kings_11th">
+          <div class="album-cover"></div>
+          <h2>King's 11th Anniversary</h2>
+          <p>Going strong</p>
+        </article>
+
+        <article class="album-card" data-album="Octoberfest_2006">
+          <div class="album-cover"></div>
+          <h2>Oktoberfest 2006</h2>
+          <p>German beer celebration</p>
+        </article>
+
+        <article class="album-card" data-album="Weiss_Release_2006">
+          <div class="album-cover"></div>
+          <h2>Weiss Release 2006</h2>
+          <p>Hefeweizen launch party</p>
+        </article>
+
+        <article class="album-card" data-album="Willis_does_Wheat">
+          <div class="album-cover"></div>
+          <h2>Willis Does Wheat</h2>
+          <p>Special event</p>
+        </article>
+
+        <article class="album-card" data-album="Guitar_Virtuoso_I">
+          <div class="album-cover"></div>
+          <h2>Guitar Virtuoso I</h2>
+          <p>Live music series</p>
+        </article>
+
+        <article class="album-card" data-album="Guitar_Virtuosos_III">
+          <div class="album-cover"></div>
+          <h2>Guitar Virtuosos III</h2>
+          <p>Live music series</p>
+        </article>
+
+        <article class="album-card" data-album="Guitar_Virtuosos_VI">
+          <div class="album-cover"></div>
+          <h2>Guitar Virtuosos VI</h2>
+          <p>Live music series</p>
+        </article>
+
+        <article class="album-card" data-album="The_Marvins">
+          <div class="album-cover"></div>
+          <h2>The Marvins</h2>
+          <p>Open mic night regulars</p>
+        </article>
+
+        <article class="album-card" data-album="Lazy_Lester">
+          <div class="album-cover"></div>
+          <h2>Lazy Lester</h2>
+          <p>Blues legend performance</p>
+        </article>
+
+        <article class="album-card" data-album="Ugly_Radio_Rebellion">
+          <div class="album-cover"></div>
+          <h2>Ugly Radio Rebellion</h2>
+          <p>Live music</p>
+        </article>
+
+        <article class="album-card" data-album="URR_&_Ike_Willis">
+          <div class="album-cover"></div>
+          <h2>URR & Ike Willis</h2>
+          <p>Special collaboration</p>
+        </article>
+
+        <article class="album-card" data-album="Pablo_&_The_Dream_Foundation">
+          <div class="album-cover"></div>
+          <h2>Pablo & The Dream Foundation</h2>
+          <p>Live performance</p>
+        </article>
+      </section>
+
+      <!-- Photo grid (hidden until album selected) -->
+      <section class="photo-gallery" id="photo-gallery" hidden>
+        <div class="gallery-header">
+          <button class="btn-back" id="btn-back">&larr; Back to Albums</button>
+          <h2 id="gallery-title">Album</h2>
+        </div>
+        <div class="photo-grid" id="photo-grid">
+          <!-- Photos loaded dynamically -->
+        </div>
+      </section>
+
+      <!-- Lightbox -->
+      <div class="lightbox" id="lightbox" hidden>
+        <button class="lightbox-close" id="lightbox-close">&times;</button>
+        <button class="lightbox-prev" id="lightbox-prev">&larr;</button>
+        <button class="lightbox-next" id="lightbox-next">&rarr;</button>
+        <img src="" alt="" id="lightbox-img">
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>&copy; 2026 King Brewing Company. All rights reserved.</p>
+      <p><a href="/menu.html">Menu</a> | <a href="/beers.html">Beers</a> | <a href="/photos.html">Photos</a></p>
+      <p class="location">Pontiac, Michigan</p>
+    </div>
+  </footer>
+
+  <script type="module" src="/assets/scripts/main.js"></script>
+  <script type="module" src="/assets/scripts/gallery.js"></script>
+</body>
+</html>

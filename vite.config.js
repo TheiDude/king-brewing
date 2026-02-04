@@ -13,6 +13,7 @@ export default defineConfig({
         beers: resolve(__dirname, 'src/beers.html'),
         menu: resolve(__dirname, 'src/menu.html'),
         specials: resolve(__dirname, 'src/daily-specials.html'),
+        photos: resolve(__dirname, 'src/photos.html'),
         blog: resolve(__dirname, 'src/blog.html'),
         podcast: resolve(__dirname, 'src/podcast.html'),
       }
